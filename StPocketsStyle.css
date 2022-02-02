@@ -1,0 +1,39 @@
+* {
+    font-family: Calibri;
+    text-align: center;
+    background-color: hsl(60, 100%, 95%);
+}
+
+h1 {
+    font-family: Garamond;
+    font-weight: bold;
+    font-size: 100px;
+}
+
+h2.second-title {
+    font-size: 35px;
+    position: relative;
+    bottom: 50px;
+}
+
+h4{
+    position: relative;
+    bottom: 50px;
+}
+
+a:link {
+    color: hsl(30, 100%, 60%);
+}
+
+a:visited {
+    color:hsl(10, 50%, 40%)
+}
+
+a:hover {
+    color:hsl(10, 100%, 40%)
+}
+
+img {
+    width: 500;
+    height: 300
+}
