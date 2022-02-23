@@ -4,6 +4,11 @@
     background-color: hsl(60, 100%, 95%);
 }
 
+p {
+    font-size: 30px;
+}
+
+
 h1 {
     font-family: Garamond;
     font-weight: bold;
